@@ -1,2 +1,2 @@
 
-[![Xpiee's GitHub Banner](./assests/wordcloud.png)](https://github.com/Xpiee/)
+[![Xpiee's GitHub Banner](./assests/banner.png)](https://github.com/Xpiee/)

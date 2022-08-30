@@ -6,7 +6,7 @@
 ![CodeWars](https://img.shields.io/badge/-Xpiee-red?style=flat-square&logo=Codewars&logoColor=white&labelColor=grey&link=https://www.codewars.com/users/Xpiee) -->
 
 
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/xpiee/xpiee/master/wave.gif" width="30">
+## Fancy seeing you here! <img src="./assests/wave.gif" width="30">
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anubhav-bhatti-queensu/)](https://linkedin.com/in/anubhav-bhatti-queensu/)

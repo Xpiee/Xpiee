@@ -6,8 +6,10 @@
 ![CodeWars](https://img.shields.io/badge/-Xpiee-red?style=flat-square&logo=Codewars&logoColor=white&labelColor=grey&link=https://www.codewars.com/users/Xpiee) -->
 
 
-## Fancy seeing you here! <img src="./assests/wave.gif" width="30">
-A dedicated machine learning researcher creating machine learning methods for human-machine systems using wearable-based biosignals. As a research assistant at [Ingenuity Labs, Queen's University](https://ingenuitylabs.queensu.ca/), I created a Transformer-like attention-based fusion method to combine learned representations from several wearable sensors for emotion recognition that performed better than contemporary fusion techniques. Using the TensorFlow and PyTorch frameworks, I have also worked on deep learning networks like MobileNets, Single Shot Detector, VGG16, ResNets, Transformers, and SEResNets.
+## <div align="center">Fancy seeing you here! <img src="./assests/wave.gif" width="30"></div>
+A dedicated machine learning researcher creating machine learning methods for human-machine systems using wearable-based biosignals.
+
+As a research assistant at [Ingenuity Labs, Queen's University](https://ingenuitylabs.queensu.ca/), I created a Transformer-like attention-based fusion method to combine learned representations from several wearable sensors for emotion recognition that performed better than contemporary fusion techniques. Using the TensorFlow and PyTorch frameworks, I have also worked on deep learning networks like MobileNets, Single Shot Detector, VGG16, ResNets, Transformers, and SEResNets.
 
 Feel free to connect with me here:
 

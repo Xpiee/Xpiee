@@ -35,8 +35,8 @@ Feel free to connect with me here:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpiee&hide=TeX&layout=compact)
 
-<a href="https://github.com/xpiee/BikeSharing">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=xpiee&repo=BikeSharing&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Xpiee/BikeSharing">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/??username=Xpiee&repo=BikeSharing&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 
 </a>
 

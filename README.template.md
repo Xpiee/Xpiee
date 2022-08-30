@@ -7,8 +7,9 @@
 
 
 ## Fancy seeing you here! <img src="./assests/wave.gif" width="30">
+A dedicated machine learning researcher creating machine learning methods for human-machine systems using wearable-based biosignals. As a research assistant at [Ingenuity Labs, Queen's University](https://ingenuitylabs.queensu.ca/), I created a Transformer-like attention-based fusion method to combine learned representations from several wearable sensors for emotion recognition that performed better than contemporary fusion techniques. Using the TensorFlow and PyTorch frameworks, I have also worked on deep learning networks like MobileNets, Single Shot Detector, VGG16, ResNets, Transformers, and SEResNets.
 
-
+Feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anubhav-bhatti-queensu/)](https://linkedin.com/in/anubhav-bhatti-queensu/)
 [![Instagram Badge](https://img.shields.io/badge/-stochastic_tuple-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/stochastic_tuple/)](https://www.instagram.com/stochastic_tuple/)
 [![Gmail Badge](https://img.shields.io/badge/-anubhav.bhatti@queensu.ca-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:anubhav.bhatti@queensu.ca)](mailto:anubhav.bhatti@queensu.ca)

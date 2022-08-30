@@ -9,4 +9,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anubhav-bhatti-queensu/)](https://linkedin.com/in/anubhav-bhatti-queensu/)
 [![Instagram Badge](https://img.shields.io/badge/-stochastic_tuple-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/stochastic_tuple/)](https://www.instagram.com/stochastic_tuple/)
 [![Gmail Badge](https://img.shields.io/badge/-anubhav.bhatti@queensu.ca-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:anubhav.bhatti@queensu.ca)](mailto:anubhav.bhatti@queensu.ca)
-[![Instagram Badge](https://img.shields.io/badge/-Xpiee-red?style=flat-square&logo=Codewars&logoColor=white&link=https://www.instagram.com/stochastic_tuple/)](https://www.instagram.com/stochastic_tuple/)
+[![Instagram Badge](https://img.shields.io/badge/-Xpiee-red?style=flat-square&logo=Codewars&logoColor=white&link=https://www.codewars.com/users/Xpiee)](https://www.codewars.com/users/Xpiee)

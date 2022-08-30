@@ -1,16 +1,61 @@
-### Hi there 👋
 
-<!--
-**Xpiee/Xpiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Xpiee's GitHub Banner](./assests/banner14.svg)](https://github.com/Xpiee/)
 
-Here are some ideas to get you started:
+<!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=Xpiee&countColor=%23263759)
+![LinkedIn](https://img.shields.io/badge/-Anubhav%20Bhatti-blue?style=flat-square&logo=Linkedin&logoColor=white&labelColor=blue&link=https://linkedin.com/in/anubhav-bhatti-queensu/)
+![CodeWars](https://img.shields.io/badge/-Xpiee-red?style=flat-square&logo=Codewars&logoColor=white&labelColor=grey&link=https://www.codewars.com/users/Xpiee) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Fancy seeing you here! <img src="./assests/wave.gif" width="30">
+A dedicated machine learning researcher creating machine learning methods for human-machine systems using wearable-based biosignals. As a research assistant at [Ingenuity Labs, Queen's University](https://ingenuitylabs.queensu.ca/), I created a Transformer-like attention-based fusion method to combine learned representations from several wearable sensors for emotion recognition that performed better than contemporary fusion techniques. Using the TensorFlow and PyTorch frameworks, I have also worked on deep learning networks like MobileNets, Single Shot Detector, VGG16, ResNets, Transformers, and SEResNets.
+
+Feel free to connect with me here:
+[![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anubhav-bhatti-queensu/)](https://linkedin.com/in/anubhav-bhatti-queensu/)
+[![Instagram Badge](https://img.shields.io/badge/-stochastic_tuple-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/stochastic_tuple/)](https://www.instagram.com/stochastic_tuple/)
+[![Gmail Badge](https://img.shields.io/badge/-anubhav.bhatti@queensu.ca-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:anubhav.bhatti@queensu.ca)](mailto:anubhav.bhatti@queensu.ca)
+[![Instagram Badge](https://img.shields.io/badge/-Xpiee-red?style=flat-square&logo=Codewars&logoColor=white&link=https://www.codewars.com/users/Xpiee)](https://www.codewars.com/users/Xpiee)
+
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xpiee&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpiee&hide=TeX&layout=compact)
+
+
+## 📌 Pinned Repositories
+
+<a href="https://github.com/Xpiee/BikeSharing">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Xpiee&repo=BikeSharing&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Xpiee/whatsCooking">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Xpiee&repo=whatsCooking&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Xpiee/SEMobNet-Object-Detection">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Xpiee&repo=SEMobNet-Object-Detection&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Xpiee/SimpleNet-CIFAR">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Xpiee&repo=SimpleNet-CIFAR&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Xpiee/Fraud-Detection">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Xpiee&repo=Fraud-Detection&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=xpiee.xpiee)

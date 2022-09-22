@@ -9,7 +9,7 @@
 ## <div align="center">Fancy seeing you here! <img src="./assests/wave.gif" width="30"></div>
 I am a passionate machine learning and deep learning researcher developing novel methods for human-machine systems using wearable-based biosignals.
 
-As a research fellow at [Ingenuity Labs, Queen's University](https://ingenuitylabs.queensu.ca/), I created a Transformer-like attention-based fusion method to combine learned representations from several wearable sensors for emotion recognition that performed better than contemporary fusion techniques. Using the TensorFlow and PyTorch frameworks, I have also worked on deep learning networks like MobileNets, Single Shot Detector, VGG16, ResNets, Transformers, and SEResNets.
+As a research fellow at [Ingenuity Labs, Queen's University](https://ingenuitylabs.queensu.ca/), I created a novel Transformer-like attention-based fusion method to combine learned representations from several wearable sensors for emotion recognition that performed better than contemporary fusion techniques. Using the TensorFlow and PyTorch frameworks, I have also worked on deep learning networks like MobileNets, Single Shot Detector, VGG16, ResNets, Transformers, and SEResNets.
 
 Feel free to connect with me here:
 

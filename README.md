@@ -9,7 +9,7 @@
 ## <div align="center">Fancy seeing you here! <img src="./assests/wave.gif" width="30"></div>
 I am a passionate machine learning and deep learning researcher developing novel methods for human-machine systems using wearable-based biosignals.
 
-As a research fellow at [Ingenuity Labs, Queen's University](https://ingenuitylabs.queensu.ca/), I created a novel Transformer-like attention-based fusion method to combine learned representations from several wearable sensors for emotion recognition that performed better than contemporary fusion techniques. Using the TensorFlow and PyTorch frameworks, I have also worked on deep learning networks like MobileNets, Single Shot Detector, VGG16, ResNets, Transformers, and SEResNets.
+I am a deep-learning researcher specializing in healthcare with over five years of machine-learning experience and an additional five years of leading teams. My work includes developing early detection systems for Sepsis and Septic Shock that significantly improve diagnosis and treatment outcomes, engineering sophisticated time-series transformers to enhance patient care prediction accuracy, and fine-tuning large language models to support critical care decision-making. I've also built robust backend infrastructures and designed efficient APIs for real-time data processing, driving substantial improvements in patient care through technical innovation and a profound understanding of healthcare needs.
 
 Feel free to connect with me here:
 
